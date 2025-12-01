@@ -1,1 +1,1 @@
-docker build -t mypython .
+docker build -t langgraph:1.0.0 .
